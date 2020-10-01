@@ -10,7 +10,7 @@ booking.com for ratings and attributes
 
 google.com for ratings
 
-An extensive description of the entire project can be found in the MasterThesis.pdf file.
+An extensive description of the entire project can be found in the MasterThesis.pdf File.
 
 # Python program
 Python was used to collect data on hotels in our database, we crawled the websites of swisshotel, TripAdvisor and booking.com using the scrapy library. However, as these websites change their structure frequently, these scripts are most likely outdated at the time of publication.
